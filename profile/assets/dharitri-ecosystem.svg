@@ -1,0 +1,67 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="800" height="600" fill="#f8fafc"/>
+
+    <!-- Main Chain Box -->
+    <rect x="300" y="30" width="200" height="80" rx="15" fill="#1e293b" stroke="#0f172a" stroke-width="3"/>
+    <text x="400" y="80" font-size="24" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial">DHARITRI CHAIN</text>
+
+    <!-- Vertical Line from Chain -->
+    <line x1="400" y1="110" x2="400" y2="180" stroke="#475569" stroke-width="3" stroke-dasharray="8 8"/>
+
+    <!-- Components Container -->
+    <rect x="250" y="180" width="300" height="350" rx="20" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+
+    <!-- Component Items -->
+    <!-- pREWA -->
+    <g transform="translate(280, 210)">
+        <rect x="0" y="0" width="40" height="40" rx="8" fill="#3b82f6"/>
+        <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">pREWA (BEP20)</text>
+    </g>
+
+    <!-- COME -->
+    <g transform="translate(280, 270)">
+        <rect x="0" y="0" width="40" height="40" rx="8" fill="#10b981"/>
+        <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">COME (Stable Asset)</text>
+    </g>
+
+    <!-- RWA Framework -->
+    <g transform="translate(280, 330)">
+        <rect x="0" y="0" width="40" height="40" rx="8" fill="#8b5cf6"/>
+        <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">RWA Framework</text>
+    </g>
+
+    <!-- MRV & Carbon Registry -->
+    <g transform="translate(280, 390)">
+        <rect x="0" y="0" width="40" height="40" rx="8" fill="#f59e0b"/>
+        <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">MRV & Carbon Registry</text>
+    </g>
+
+    <!-- Farmer App -->
+    <g transform="translate(280, 450)">
+        <rect x="0" y="0" width="40" height="40" rx="8" fill="#14b8a6"/>
+        <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">Farmer App</text>
+    </g>
+
+    <!-- Dev Tools -->
+    <g transform="translate(280, 510)">
+        <rect x="0" y="0" width="40" height="40" rx="8" fill="#6366f1"/>
+        <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">Dev Tools (SDKs)</text>
+    </g>
+
+    <!-- Connecting Lines from Chain -->
+    <line x1="400" y1="110" x2="350" y2="180" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="400" y1="110" x2="450" y2="180" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="400" y1="110" x2="350" y2="230" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="400" y1="110" x2="450" y2="230" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="400" y1="110" x2="350" y2="280" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="400" y1="110" x2="450" y2="280" stroke="#94a3b8" stroke-width="2"/>
+
+    <!-- Decorative Elements -->
+    <circle cx="380" cy="140" r="4" fill="#3b82f6"/>
+    <circle cx="420" cy="140" r="4" fill="#10b981"/>
+    <circle cx="400" cy="150" r="4" fill="#8b5cf6"/>
+
+    <!-- Title with Icons -->
+    <text x="400" y="550" font-size="14" fill="#64748b" text-anchor="middle" font-family="Arial">Dharitri Chain Ecosystem Components</text>
+</svg>
