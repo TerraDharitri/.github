@@ -1,4 +1,4 @@
-# Dharitri Blockchain
+# ![Dharitri Ecosystem](./assets/dharitri-logo.svg)
 
 A sovereign regenerative Layer-1 blockchain.
 

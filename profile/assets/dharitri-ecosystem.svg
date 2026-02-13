@@ -31,10 +31,10 @@
         <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">RWA Framework</text>
     </g>
 
-    <!-- MRV & Carbon Registry -->
+    <!-- MRV & Carbon Registry - Fixed with &amp; -->
     <g transform="translate(280, 390)">
         <rect x="0" y="0" width="40" height="40" rx="8" fill="#f59e0b"/>
-        <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">MRV & Carbon Registry</text>
+        <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">MRV &amp; Carbon Registry</text>
     </g>
 
     <!-- Farmer App -->
@@ -43,7 +43,7 @@
         <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">Farmer App</text>
     </g>
 
-    <!-- Dev Tools -->
+    <!-- Dev Tools - Fixed with &amp; -->
     <g transform="translate(280, 510)">
         <rect x="0" y="0" width="40" height="40" rx="8" fill="#6366f1"/>
         <text x="55" y="27" font-size="18" fill="#0f172a" font-family="Arial">Dev Tools (SDKs)</text>
@@ -62,6 +62,5 @@
     <circle cx="420" cy="140" r="4" fill="#10b981"/>
     <circle cx="400" cy="150" r="4" fill="#8b5cf6"/>
 
-    <!-- Title with Icons -->
-    <text x="400" y="550" font-size="14" fill="#64748b" text-anchor="middle" font-family="Arial">Dharitri Chain Ecosystem Components</text>
+    
 </svg>
