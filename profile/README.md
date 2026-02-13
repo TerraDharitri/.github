@@ -74,8 +74,4 @@ Dugong Global Services – Technical development arm
 
 
 
--------------------------------------------------
-|                                               | 
-|        https://giveth.io/project/dharitri     | 
-|                                               |
-|-----------------------------------------------
+https://giveth.io/project/dharitri
