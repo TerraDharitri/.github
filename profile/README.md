@@ -11,54 +11,35 @@ Dharitri builds:
 
 ---
 
-## 🌍 Ecosystem Overview
+## Ecosystem Overview
 
 ![Dharitri Ecosystem](./assets/dharitri-ecosystem.svg)
 
 ---
 
-## 🧱 Architecture Layers
-
-### Core Layer
-- dharitri-core
-- dharitri-vm
-- dharitri-consensus
-
-### Smart Contract Layer
-- dharitri-rwa
-- dharitri-mrv
-- dharitri-come
-
-### Infrastructure
-- dharitri-indexer
-- dharitri-proxy
-- dharitri-devnet-config
-
-### Applications
-- farmer-app
-- prewa-dapp
-
----
 
 ## 🚀 Roadmap 2026
 
-Q1 – Devnet stabilization  
-Q2 – RWA v1 contracts  
-Q3 – Carbon MRV integration  
-Q4 – Public testnet  
+Q1 - Devnet stabilization  
+Q2 - Public testnet  
+Q2 - RWA v1 contracts  
+Q3 - Carbon MRV integration
+Q4 - Dharitri Mainnet
+
+ 
 
 ---
 
-## 🤝 Contribute
+## Contribute
 
 1. Read Architecture docs  
 2. Setup local devnet  
-3. Pick “good first issue”  
+3. Pick (good first issue)
 4. Submit PR  
 
 ---
 
-## 🌍 Real-World Impact
+## Real-World Impact
 
 • 20 farmers in Kenya pilot  
 • Soil & water infrastructure deployed  
@@ -66,10 +47,10 @@ Q4 – Public testnet
 
 ---
 
-## 📜 Governance
+##  Governance
 
 Dharitri Foundation – Non-profit mission governance  
-Dugong Global Services – Technical development arm  
+
 
 
 
