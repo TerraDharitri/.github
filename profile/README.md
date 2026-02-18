@@ -22,7 +22,7 @@ Dharitri builds:
 ---
 
 
-## 🚀 Roadmap 2026
+##  Roadmap 2026
 
 Q1 - Devnet stabilization  
 Q2 - Public testnet  
