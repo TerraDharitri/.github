@@ -3,10 +3,14 @@
 A sovereign regenerative Layer-1 blockchain.
 
 Dharitri builds:
-• 0% interest farmer financing
+• low interest farmer financing
+
 • Carbon credit certification (MRV)
+
 • Real-world asset tokenization
+
 • Stable-value asset (COME)
+
 • Climate-positive infrastructure
 
 ---
